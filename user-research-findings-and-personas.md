@@ -50,5 +50,7 @@ Most people have shared interests with friends
 If a person faces a personal / relationship issue they prefer discussing with a friend 
 Most people said they prefer having roommates over none, with the most popular responses being 2 or 3. 
 Around half said they live near family, the other do not 
- 
+
+
+ ![photo](IMG_9667.HEIC)
  
