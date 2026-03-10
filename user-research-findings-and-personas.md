@@ -1,7 +1,3 @@
-User Interviews (Each interview represented) (5 points) 
-Summary of interview 
-Interviewee info, insights, quotes, etc 
- 
 
 Jaime -  
 
@@ -137,4 +133,24 @@ Defining quote
 
 I don’t feel disconnected but mild connections. The connection isn’t as deep as it used to be. 
 
+Insight Statement 1 
+ 
+
+We observed that 5 out of 5 interviews and 100% of the survey responded that having too much commuting time would be very hard to make new friends and to be able to participate in social events. 
+As Jamie(commuter persona) said that having more than 20 minutes commuting time makes it harder to make friends and participate in the social events. As we look at the survey, we can also see that having a shorter commuting time would help to make more connections.  
+This suggests that we have to put in the feature that would help the commuters to communicate during their wait time and hang out with the people.  
+ 
+
+Insight Statement 2 
+ 
+
+We observed that 4 out of the interviews and 71% of the survey responded that they do not communicate well with the school friends during the weekends.   
+As Judy(off-campus persona) said that she barely communicates with the friends from the school during the weekends. Although she has time to communicate and hang out with the classmates during weekdays, it is hard for her to hang out during weekends. If we also look at the survey, eight people say they barely communicate or not communicate at all during weekends.  
+This suggests that we have to put in a feature that would allow the users to create the events that they want to meet and hang out with their friends at their preferred time. 
+ 
+
+ 
+
 ![name](pic.png)
+
+
